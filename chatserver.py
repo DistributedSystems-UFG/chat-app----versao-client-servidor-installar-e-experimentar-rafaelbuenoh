@@ -53,6 +53,3 @@ while True:
         #print("Server: Received Ack from client")
         pass
     client_sock.close()
-
-
-
